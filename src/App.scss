@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap";
+
+.main{
+  width: 75%;
+  margin: 10% auto;
+  .addNewButton{
+    margin: 15px 0;
+  }
+  .dataTable {
+    border-radius: 15px;
+    box-shadow: 0 2px 6px rgb(0 0 0 / 6%);
+    border: 0.1px solid #fafafa;
+  }
+}
